@@ -6,7 +6,6 @@ I'm a professional developer.
 **Python**:
   Discord Bots
   Python Scripts
-Java
+**Java**
   Minecraft Java Paper/Velocity Plugins
-HTML and CSS
-and a little PHP
+**HTML** and **CSS**
