@@ -1,16 +1,11 @@
-## Hi there 👋
-
-<!--
-**schnuri0001/schnuri0001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Welcome to my GitHub!
+Hi, my name is Schnuri.
+I'm a professional developer.
+I develop in the following languages:
+Python
+  Discord Bots
+  Python Scripts
+Java
+  Minecraft Java Paper/Velocity Plugins
+HTML and CSS
+and a little PHP
